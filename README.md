@@ -1,3 +1,3 @@
-# Excalidraw Portal
+# Drawboard Portal
 
-Collaboration server for Excalidraw
+Collaboration server for Drawboard
